@@ -25,12 +25,14 @@ I'm a Computer Science student interested in building practical software solutio
 ## 🚀 Featured Projects
 
 ### 🔐 AI Security Agent
-A Python-based security analysis project focused on file and URL scanning, risk assessment, and quarantine workflows.
 
-- Built with Python and FastAPI
-- Includes readable scan reports alongside structured JSON output
-- Latest recorded automated test run: 319 tests passed
-- **Status:** Under development; production deployment and security validation remain ongoing
+A Python-based security analysis project designed to inspect files and URLs, assess risk, and support quarantine workflows.
+
+- **Backend:** Python, FastAPI
+- **Engineering:** Automated testing, Docker, modular architecture
+- **Testing:** 319 tests passed in the latest recorded test run
+- **Security:** Risk assessment and quarantine workflows
+- **Status:** Under development; production deployment and security validation remain in progress.
 
 ### 📈 Forex AI Trading Analysis Agent
 An experimental machine learning project using historical EUR/USD data.
